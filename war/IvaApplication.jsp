@@ -1,0 +1,9 @@
+callback({"IPReceived": "${IPDetected}", 
+"CountryDetected": "${countryDetected}", 
+"CountryReceived": "${countryReceived}", 
+"CountryCoincident": "${coincident}",
+"IVA": "${iva}",
+"ReducedIVA": "${reducedIva}",
+"SuperReducedIVA": "${superReducedIva}",
+"DomainReceived": "${domain}",
+"RespuestaServidor": "${respuesta}"});
